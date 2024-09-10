@@ -4,11 +4,6 @@
     padding: 30px;
     color: #fff;
 }
-
-
-
-
-
 input[type=text], select {   
     width: 15%;
     padding: 12px 20px;
@@ -18,9 +13,7 @@ input[type=text], select {
     border-radius: 20px;
     box-sizing: border-box;
   }
-  
-
-.password,.email,.age,.phone,.website{
+  .password,.email,.age,.phone,.website{
  width: 80px;
   padding: 10px  90px;
   border: 20solid#7ff;
